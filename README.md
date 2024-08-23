@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @XelrianHex
-- 👀 I'm working on escaping the factory life through coding.
-- 🌱 I’m currently using freeCodeCamp to further my education.
-- 💞️ Here I will post my projects for all the different languages I'm learning.
-- ⚡ Though I'm largely interested in data structure/science my codes here will be in what ever field/language I'm learning at the time.
 
+# ❇ Hi there! I'm **Xelrian Hex** ❇
+
+- 📚 I'm currently using *[FreeCodeCamp](https://www.freecodecamp.org/)* to further my education in self taught programming.
+- 🦾 Previously I had read and used *["Automate the Boring Stuff With Python"](https://automatetheboringstuff.com/)* online book to learn a great deal about Python.
+- 🏁 My goal is to switch careers. The factory life is wearing on me and I need an escape! 🏁
+- 🏞 ❓ I am undecided on which path I would like to take. I hope by the end of my *FreeCodeCamp* education I will have a more clear path in mind. 
 <!---
 XelrianHex/XelrianHex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
